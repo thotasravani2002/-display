@@ -1,0 +1,13 @@
+div{
+    background-color: blue;
+    text-align: center;
+    padding: 2%;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: cadetblue;
+}
+a:hover{
+    background-color: chartreuse;
+}
